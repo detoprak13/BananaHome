@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626962124550",
+    "firebase_url": "https://bananahome-98210.firebaseio.com",
+    "project_id": "bananahome-98210",
+    "storage_bucket": "bananahome-98210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626962124550:android:d6ae471f8cca1c7f",
+        "android_client_info": {
+          "package_name": "com.home.banana.bananahome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626962124550-g09agc6ahf4iauott3kdu6dv3lhp8md6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.home.banana.bananahome",
+            "certificate_hash": "6eb0c3d6eda7c75b02873fae22017a7d6a01e31a"
+          }
+        },
+        {
+          "client_id": "626962124550-ias7thjoj033vc5ckr0b45urltngli52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAsKBggYM06FIN7WScp0tuzbLF28nFWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626962124550-ias7thjoj033vc5ckr0b45urltngli52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
